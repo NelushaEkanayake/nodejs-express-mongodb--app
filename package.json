@@ -1,0 +1,31 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "bootstrap-social": "^5.1.1",
+    "constantinople": "^3.1.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-session": "^1.15.6",
+    "express-handlebars": "^5.2.0",
+    "font-awesome": "^4.7.0",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.5.1",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.10.1",
+    "mongoose-currency": "^0.2.0",
+    "morgan": "~1.9.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^5.0.1",
+    "popper.js": "^1.12.9",
+    "session-file-store": "^1.2.0"
+  }
+}
